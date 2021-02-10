@@ -10,6 +10,7 @@
 - 📫 How to reach me **sasgt97@gmail.com**
 
 <h3 align="left">Now Playing:</h3>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0wqhqkvzmu8jmff3ghcg89z65&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 
