@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theplaygod97&label=Profile%20views&color=0e75b6&style=flat" alt="theplaygod97" /> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Flutter ,Java**
 
 - 📫 How to reach me **sasgt97@gmail.com**
