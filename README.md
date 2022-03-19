@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theplaygod97&label=Profile%20views&color=0e75b6&style=flat" alt="theplaygod97" /> </p>
+<p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=32616117" alt="Hit Counter" /> </p>
 
 - 💬 Ask me about **Flutter ,Java**
 
