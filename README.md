@@ -7,11 +7,6 @@
 
 - 📫 How to reach me **sasgt97@gmail.com**
 
-<h3 align="left">Now Playing:</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0wqhqkvzmu8jmff3ghcg89z65&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
-
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/sasgt97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sasgt97" height="30" width="40" /></a>
